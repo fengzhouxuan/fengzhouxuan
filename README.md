@@ -1,58 +1,30 @@
 <div align="center">
 
-# 👋 Hi there, I'm fengzhouxuan
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=fengzhouxuan.fengzhouxuan)](https://github.com/fengzhouxuan)
-
-> ✨ 热爱开发｜折腾技术｜持续学习
+<img src="./assets/paper-header.svg" width="100%" alt="打个大柚子的兔子洞" />
 
 </div>
 
-## 🧑‍💻 About Me
-- 🔭 目前专注于全栈开发 & AI 相关实践
-- 🌱 正在学习：前端、后端、本地大模型部署
-- 💬 欢迎交流技术，欢迎 Star & Fork
-- 📫 联系方式：GitHub Issues
+<br />
 
-## 🛠️ Tech Stack
+## GitHub stats
+
 <div align="center">
 
-
-
-
-
-
-
-
-
-</div>
-
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fengzhouxuan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengzhouxuan&layout=compact&theme=radical&hide_border=true&langs_count=6" height="170"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fengzhouxuan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=4f785a&text_color=68675d&icon_color=4f785a" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengzhouxuan&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=4f785a&text_color=68675d" alt="Top languages" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fengzhouxuan&theme=radical&hide_border=true"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=20&duration=3200&pause=900&color=4F785A&center=true&vCenter=true&width=700&lines=talk+is+cheap%2C+show+me+the+code" alt="Typing effect" />
+
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fengzhouxuan&theme=radical&no-frame=true&row=1"/>
-</div>
 
-## ⭐ My Repositories
-<div align="center">
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=fengzhouxuan&repo=你的仓库名称&theme=radical&hide_border=true"/>
+<sub>Keep asking why. Keep digging deeper.</sub>
 
 </div>
-
----
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Code+everyday;Keep+learning&font=Fira%20Code&center=true&width=380&height=45">
-</div>
-
-# 打个大西瓜
