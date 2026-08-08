@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#d8cdb4" stroke-width="1" opacity=".35"/>
+    </pattern>
+    <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#8b7656" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="420" fill="#faf5e7"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+  <circle cx="172" cy="120" r="92" fill="#f1e6c9" opacity=".45"/>
+  <circle cx="1050" cy="300" r="145" fill="#f1e6c9" opacity=".4"/>
+  <rect x="176" y="76" width="848" height="270" fill="#fffdf5" stroke="#cfc4aa" stroke-dasharray="3 7" filter="url(#shadow)"/>
+  <path d="M176 334L204 344L236 337L274 348L320 338L365 346L410 337L461 347L514 337L568 347L624 338L680 346L738 337L794 347L850 338L908 346L968 337L1024 344V346H176Z" fill="#fffdf5"/>
+  <text x="600" y="210" text-anchor="middle" fill="#292b27" font-family="Arial,sans-serif" font-size="48" font-weight="700">打个大柚子的兔子洞</text>
+  <text x="600" y="270" text-anchor="middle" fill="#68675d" font-family="Arial,sans-serif" font-size="19">一个游戏开发爱好者</text>
+</svg>
